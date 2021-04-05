@@ -111,3 +111,12 @@ footer {
 .img-responsive {
 	max-width: 40%;
 }
+
+.text-images {
+	height: 0.9em;
+	width: auto;
+}
+
+td {
+	padding-right: 5px;
+}
