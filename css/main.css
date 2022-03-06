@@ -120,3 +120,8 @@ footer {
 td {
 	padding-right: 5px;
 }
+
+.time-column {
+	width: 30%;
+	font-size: 0.9em;
+}
